@@ -56,7 +56,7 @@ export default function StartProject() {
           Your Next <span className="text-[#7A7FEE]">Project</span>?
         </h2>
       </div>
-      <ProjectForm  calUsername="undefined" eventSlug="teste" />
+      <ProjectForm   />
     </div>
   )
 }
