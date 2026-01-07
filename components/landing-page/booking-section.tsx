@@ -6,7 +6,7 @@ import ProjectForm from "./project-form"
 export default function BookingSection() {
     return (
         <section id="booking" className="my-20  scroll-mt-20">
-            <div className="rounded-3xl overflow-hidden p-8 md:p-10  bg-white ">
+            <div className="rounded-3xl overflow-hidden p-8 md:p-10   ">
                 <div className="text-center mb-8  shadow-none">
                     <h2 className="text-foreground mb-4 text-3xl md:text-4xl lg:text-5xl font-bold leading-tight text-balance">
                         Agende uma <span className="text-primary">Conversa</span>
